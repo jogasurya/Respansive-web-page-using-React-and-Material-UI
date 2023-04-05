@@ -5,10 +5,7 @@ import {
   Card,
   CardMedia,
   CardContent,
-  CardActionArea,
-  Typography,
-  CardActions,
-  Button
+  CardActionArea
 } from "@mui/material";
 
 export default function App() {
